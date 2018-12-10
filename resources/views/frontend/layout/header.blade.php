@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-6 px-0 px-md-3 pl-1 py-3">
-                    <span class="call-top">call us:</span> <a href="#" class="call-top">+977-1-4216356</a>
+                    <span class="call-top "><b>call us:</b></span> <a href="#" class="call-top"><b> +977-1-4216356 </b></a>
                 </div>
                 <div class="col-6 px-0 px-md-3 py-3 text-right">
 
