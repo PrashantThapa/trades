@@ -1,4 +1,4 @@
-<div class="section padding-top-bottom over-hide">
+<div class="section padding-top-bottom over-hide" id="aboutus">
     <div class="container">
         <div class="row">
             <div class="col-md-6 align-self-center">
@@ -24,4 +24,6 @@
             </div>
         </div>
     </div>
+
+    <div id="products"></div>
 </div>

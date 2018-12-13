@@ -68,6 +68,7 @@
 @include('frontend.partials.about')
 @include('frontend.partials.products')
 @include('frontend.partials.message')
+@include('frontend.partials.contact')
 @include('frontend.layout.footer')
 
 <div class="scroll-to-top"></div>
